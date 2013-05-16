@@ -1,4 +1,4 @@
-# OpenShift Mock Plugin Cartridge
+# OpenShift Downloadable Mock Plugin Cartridge
 
 This is a mock implementation of the [OpenShift cartridge API](https://github.com/openshift/origin-server/blob/master/node/README.writing_cartridges.md)
 which is used to test the OpenShift node platform functionality.  The mock cartridges maintains a store
