@@ -10,8 +10,8 @@ Cartridge-Vendor: openshift
 #Source-Url: https://github.com/bmeng/downloadable-mock-plugin.git
 #Source-Url: https://github.com/bmeng/downloadable-mock-plugin/raw/master/downloadable-mock-plugin.tar.gz
 #Source-Url: https://github.com/bmeng/downloadable-mock-plugin/raw/master/invalid.zip
-#Source-Url: https://github.com/bmeng/downloadable-mock-plugin/raw/master/invalid.tar.gz
-Source-Url: https://github.com/bmeng/downloadable-mock-plugin/raw/master/downloadable-mock-plugin.zip
+Source-Url: https://github.com/bmeng/downloadable-mock-plugin/raw/master/invalid.tar.gz
+#Source-Url: https://github.com/bmeng/downloadable-mock-plugin/raw/master/downloadable-mock-plugin.zip
 #Source-Url: https://github.com/bmeng/downloadable-mock-plugin/raw/master/downloadable-mock-plugin.tar
 Categories:
   - service
