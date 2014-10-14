@@ -8,11 +8,12 @@ Vendor: Red Hat
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: openshift
 #Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary.git
-#Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary/raw/master/downloadable-mock-plugin.tar.gz
+Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary/raw/master/downloadable-mock-plugin.tar.gz
 #Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary/raw/master/invalid.zip
-Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary/raw/master/invalid.tar.gz
+#Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary/raw/master/invalid.tar.gz
 #Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary/raw/master/downloadable-mock-plugin.zip
 #Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary/raw/master/downloadable-mock-plugin.tar
+Source-Md5: c0c6fcad6e0bf89fee90c48c9a0c381f
 Categories:
   - service
   - database

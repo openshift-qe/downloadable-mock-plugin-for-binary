@@ -7,12 +7,12 @@ License: ASL 2.0
 Vendor: Red Hat
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: openshift
-#Source-Url: https://github.com/bmeng/downloadable-mock-plugin.git
-#Source-Url: https://github.com/bmeng/downloadable-mock-plugin/raw/master/downloadable-mock-plugin.tar.gz
-#Source-Url: https://github.com/bmeng/downloadable-mock-plugin/raw/master/invalid.zip
-Source-Url: https://github.com/bmeng/downloadable-mock-plugin/raw/master/invalid.tar
-#Source-Url: https://github.com/bmeng/downloadable-mock-plugin/raw/master/downloadable-mock-plugin.zip
-#Source-Url: https://github.com/bmeng/downloadable-mock-plugin/raw/master/downloadable-mock-plugin.tar
+#Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary.git
+#Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary/raw/master/downloadable-mock-plugin.tar.gz
+#Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary/raw/master/invalid.zip
+Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary/raw/master/invalid.tar
+#Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary/raw/master/downloadable-mock-plugin.zip
+#Source-Url: https://github.com/openshift-qe/downloadable-mock-plugin-for-binary/raw/master/downloadable-mock-plugin.tar
 Categories:
   - service
   - database
